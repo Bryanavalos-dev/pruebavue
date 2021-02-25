@@ -3,5 +3,6 @@
     <span>Hola</span>
     <span>Hola</span>
     <span>Hola</span>
+    <span>kike y erick se la comen</span>
   </div>
 </template>
